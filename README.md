@@ -168,6 +168,78 @@ Surtout, j'ai appris à bien conduire un projet Web (les priorités, comment ouv
 
 Notions non abordées car absent au quatrième semestre (Mobilité au Québec)
 
+### Compétences spécifiques au parcours RA-IL
 
+Lors du quatrième semestre, j'ai dû faire un choix de parcours au sein de ma formation.
+Ces parcours servent à spécialiser les étudiants dans un certain domaine. Notre IUT proposait trois type de parcours.
+Le premier parcours est DWM, qui est l'acronyme de Développement Web et Mobile, qui est mis en place notamment pour les étudiants souhaitant arrêter les études après obtention du BUT pour pouvoir s'insérer plus facilement dans le monde du travail.
+Le deuxième parcours est DACS, l'acronyme de Développement d'Applications Communicantes et Sécurisées, qui spécialise les étudiants dans l'architecture des applications.
+Le troisième et dernier parcours est le mien,IL, qui est l'acronyme d'Ingéniérie Logicielle, qui nous spécialise à des notions plus théoriques comme les mathématiques, l'optimisation d'algorithmes et la logique afin de poursuivre nos études.
+
+#### Logique des propositions et des prédicats du premier ordre
+
+- [ ] Totalement acquise
+- [ ] Acquise
+- [x] Moyennement acquise
+- [ ] Peu acquise
+- [ ] Pas du tout acquise
+
+La logique est une matière qui fut très complexe pour tout mes camarades, moi y compris.
+En comparant ça avec des mathématiques, j'ai la sensation que la logique va à l'inverse des mathématiques et de ce fait embrouille donc mes sens.
+Cela dit, j'ai tout de même compris les différents théorèmes et façons de faire de cette matière et je commence à comprendre les tenants et aboutissants ayant un lien avec la logique dans le domaine informatique.
+Je dois cependant toujours travailler dessus pour bien comprendre ce domaine très théorique qui me met à mal.
+
+#### Initiation à l’Intelligence Artificielle
+
+- [x] Totalement acquise
+- [ ] Acquise
+- [ ] Moyennement acquise
+- [ ] Peu acquise
+- [ ] Pas du tout acquise 
+
+L'IA est une des technologies émergentes du moment. C'est donc tout logiquement qu'un nouveau cours en rapport avec l'IA fut ajouté à notre parcours.
+J'ai tout d'abord eu quelques difficultés à comprendre la base de l'IA. J'ai cependant réussi avec le temps à combler ces difficultés à force de travail.
+Puisque cela m'intéressait grandement, j'ai fini par facilement comprendre la totalité de ce cours. De plus, lors de notre projet tutoré, nous avons mis en place une IA, qui m'a aidé à appliquer ce qui avait pu être appris, et même aller encore plus loin que prévu.
+Je considère donc avoir totalement acquis cette compétence et même être allé au-délà.
+
+#### Méthodes d’optimisation pour l’aide à la décision
+
+- [ ] Totalement acquise
+- [x] Acquise
+- [ ] Moyennement acquise
+- [ ] Peu acquise
+- [ ] Pas du tout acquise 
+
+Ayant loupé une bonne partie de ce cours à cause de ma santé, j'ai dû rattraper ce cours au fur et à mesure de l'année. Sachant qu'on en avait besoin pour l'initiation à l'IA, j'ai quand même rattrapé une grande partie de ce cours, mais n'ayant pas fait de projet uniquement sur les notions de l'algorithme kNN et les arbres de décisions, je ne considère pas avoir totalement acquéri ce cours ci.
+J'ai cependant compris une grande partie de ce cours dans la SAé dediée à l'intelligence artificielle, donc je pense l'avoir acquis comme il fallait, dans un cas concret où ces méthodes sont utiles pour comparer différents résultats.
+
+#### Compilation - Théorie des langages et analyse syntaxique
+
+- [ ] Totalement acquise
+- [ ] Acquise
+- [x] Moyennement acquise
+- [ ] Peu acquise
+- [ ] Pas du tout acquise 
+
+Je commence seulement à suivre ce cours donc pas encore vraiment d'avis de performance à propos de la compilation.
+Cependant, après avoir coder une partie du compilateur et suivi quelques cours, j'ai l'impression d'avoir plutôt bien compris comment la compilation fonctionne mais je ne peux pas réellement affirmer avoir tout compris sachant que nous ne sommes qu'à la moitié du cours.
+
+#### Métriques d’évaluation de la qualité des algorithmes
+
+Le cours vient seulement de commencer donc aucun apprentissage pour l'instant.
+
+#### Modélisations mathématiques
+
+- [x] Totalement acquise
+- [ ] Acquise
+- [ ] Moyennement acquise
+- [ ] Peu acquise
+- [ ] Pas du tout acquise 
+
+Ce cours consiste en partie à revoir des notions déjà apprises en cours et à les étoffer au maximum ou simplement à revoir ces notions.
+Après de nombreux TD, j'ai pu réacquérir ces notions assez simplement et apprendre des nouvelles notions n'est pas non plus une difficulté. J'ai vraiment la bonne impression que ce cours renforce vraiment mon niveau de mathématiques et me pousse vers le haut.
+La façon dont ce cours est structuré nous pousse vraiment à travailler (pour ma part en tout cas) et de ce fait nous fait acquérir plus simplement les notions mathématiques sachant que nous sommes obligés de les assimiler pour pouvoir réaliser les exercices du TD.
+Je pourrais retranscrire toutes les notions apprises durant ce cours donc je considère l'avoir totalement acquis.
 
 ## Organisation de mon GitHub
+

@@ -89,14 +89,7 @@ Au cours des nombreuses SAé effectuées, j'ai pu apprendre à lier ces compéte
 
 #### Technologies maitrisées
 
-<img src="images/java.png" alt="drawing" width="40"/>
-<img src="images/html.png" alt="drawing" width="40"/>
-<img src="images/css-3.png" alt="drawing" width="40"/>
-<img src="images/js.png" alt="drawing" width="40"/>
-<img src="images/php.png" alt="drawing" width="40"/>
-<img src="images/sql.png" alt="drawing" width="40"/>
-<img src="images/bash.png" alt="drawing" width="40"/>
-<img src="images/c.png" alt="drawing" width="40"/>
+<img src="images/java.png" alt="drawing" width="40"/><img src="images/html.png" alt="drawing" width="40"/><img src="images/css-3.png" alt="drawing" width="40"/><img src="images/js.png" alt="drawing" width="40"/><img src="images/php.png" alt="drawing" width="40"/><img src="images/sql.png" alt="drawing" width="40"/><img src="images/bash.png" alt="drawing" width="40"/><img src="images/c.png" alt="drawing" width="40"/>
 
 #### Programmation
 
